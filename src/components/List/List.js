@@ -8,7 +8,7 @@ const List = () => {
           </header>
           <p className={styles.description}>Interesting things I want to check out</p>
             <section className={styles.columns}>
-                <Column title="Books" />
+                <Column title="Books"  />
                 <Column title="Movies" />
                 <Column title="Games" />
             </section>
